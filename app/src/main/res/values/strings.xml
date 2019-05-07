@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">马龙的自定义View</string>
+    <string name="title_draw_color">画颜色</string>
+    <string name="title_draw_circle">画圆</string>
+    <string name="title_draw_rect">画矩形</string>
+    <string name="title_draw_point">画点</string>
+    <string name="title_draw_oval">画椭圆</string>
+    <string name="title_draw_line">画线</string>
+    <string name="title_draw_round_rect">画圆角矩形</string>
+    <string name="title_draw_arc">画扇形</string>
+    <string name="title_draw_path">画任意形状</string>
+    <string name="title_draw_histogram">画直方图</string>
+    <string name="title_draw_pie_chart">画饼图</string>
+</resources>
