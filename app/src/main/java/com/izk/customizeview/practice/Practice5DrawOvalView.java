@@ -33,5 +33,6 @@ public class Practice5DrawOvalView extends View {
         Paint paint = new Paint(Paint.ANTI_ALIAS_FLAG);
         paint.setColor(Color.BLUE);
         canvas.drawOval(200, 300, 600, 500, paint);
+
     }
 }
